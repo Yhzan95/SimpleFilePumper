@@ -1,0 +1,30 @@
+#include <windows.h>
+
+VS_VERSION_INFO VERSIONINFO
+FILEVERSION 1, 0, 0, 0
+PRODUCTVERSION 1, 0, 0, 0
+FILEFLAGSMASK 0x3fL
+FILEFLAGS 0x0L
+FILEOS VOS__WINDOWS32
+FILETYPE VFT_APP
+FILESUBTYPE 0x0L
+{
+    BLOCK "StringFileInfo"
+    {
+        BLOCK "040904b0"
+        {
+            VALUE "CompanyName", "Yzhan95"
+                VALUE "FileDescription", "Simple file pumper by Yzhan95"
+                VALUE "FileVersion", "1.0.0.0"
+                VALUE "InternalName", "Simple Filepumper"
+                VALUE "LegalCopyright", "© 2024 Yzhan95 - All right reserved"
+                VALUE "OriginalFilename", "SimpleFilePumper.exe"
+                VALUE "ProductName", "Simple File Pumper"
+                VALUE "ProductVersion", "1.0.0.0"
+        }
+    }
+    BLOCK "VarFileInfo"
+    {
+        VALUE "Translation", 0x0409, 1200
+    }
+}
