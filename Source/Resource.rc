@@ -17,7 +17,7 @@ FILESUBTYPE 0x0L
                 VALUE "FileDescription", "Simple file pumper by Yzhan95"
                 VALUE "FileVersion", "1.0.0.0"
                 VALUE "InternalName", "Simple Filepumper"
-                VALUE "LegalCopyright", "© 2024 Yzhan95 - All right reserved"
+                VALUE "LegalCopyright", "Â© 2024 Yzhan95 - All right reserved"
                 VALUE "OriginalFilename", "SimpleFilePumper.exe"
                 VALUE "ProductName", "Simple File Pumper"
                 VALUE "ProductVersion", "1.0.0.0"
